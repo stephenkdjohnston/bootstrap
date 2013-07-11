@@ -21,6 +21,7 @@ Sets the default global options for your application. Options can be overridden 
 *   `backdropFade`: a boolean value indicating whether the backdrop should fade in and out using a CSS transition, defaults to false
 *   `dialogFade`: a boolean value indicating whether the modal should fade in and out using a CSS transition, defaults to false
 *   `keyboard`: indicates whether the dialog should be closable by hitting the ESC key, defaults to true
+*   `escape`: indicates that the dialog should not close when the ESC key is pressed.
 *   `backdropClick`: indicates whether the dialog should be closable by clicking the backdrop area, defaults to true
 *   `template`: the template for dialog
 *   `templateUrl`: path to the template for dialog
